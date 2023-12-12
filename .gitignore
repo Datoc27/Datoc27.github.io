@@ -1,0 +1,4 @@
+.ipynb*
+_build/*
+*tasks.ipynb
+.DS_STORE
